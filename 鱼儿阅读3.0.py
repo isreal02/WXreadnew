@@ -3,7 +3,7 @@
 首先请安装py依赖 requests
 支付宝微信均可提现
 青龙变量名：account = '序号（自己编）#cookie#支付宝名字#支付宝账号#提现金额(元)#apptoken#topicid#useragent'
-例如： 微信大号#PHPSESSID=146ahbhoudvbl2nhf9847847#乖孩子#135788888#2#AT****#12544
+例如： 微信大号#PHPSESSID=146ahbhoudvbl2nhf9847847#乖孩子#135788888#2#AT****#12544#Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X)。。。。很长
 
 多账号用回车"\n"换行分隔。
 例如~
