@@ -181,7 +181,7 @@ class Main :#line:35
             O0OOO0O0O0O0OOOO0 ={"channel":"alipay","money":float (OO0OOO00000OOO000 .money )*100.0 ,"u_ali_account":OO0OOO00000OOO000 .ali_account ,"u_ali_real_name":OO0OOO00000OOO000 .ali_name ,}#line:202
         elif OO0OOO00000OOO000 .ali_account =='':#line:203
             O0OOO0O0O0O0OOOO0 ={"channel":"wechat","money":float (OO0OOO00000OOO000 .money )*100.0 ,}#line:207
-        if OO0OOO00000OOO000 .money !=''and OO0OOO00000OOO000 .yue >=float (OO0OOO00000OOO000 .money ):#line:209
+        if OO0OOO00000OOO000 .money !='':#line:209
             OOO000O0OOOOOO00O =requests .post (OO0OOO00000OOO000 .withdraw_url ,headers =OOOO00O0O00OOO0OO ,data =O0OOO0O0O0O0OOOO0 )#line:210
             OOO0O00O0O0O0OOO0 =OOO000O0OOOOOO00O .json ()#line:211
             print (OOO0O00O0O0O0OOO0 )#line:212
