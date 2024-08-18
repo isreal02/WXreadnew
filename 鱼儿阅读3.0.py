@@ -141,7 +141,7 @@ class Main :#line:35
             if O00OO0OOO000O0O00 .jkey !='':#line:153
                 O00OO0OOO000O0O00 .count +=1 #line:154
                 print (O00OO0OOO000O0O00 .count )#line:155
-                print (f"~呵呵哈希~恭喜！这憨货又向小目标又迈进了{OOOOOO000O0O0OO0O}{O00OO0OOO000O0O00.count}{OO00O00OOOOOO0000}步")#line:156
+                print (f"这憨货又看完了{OOOOOO000O0O0OO0O}{O00OO0OOO000O0O00.count}{OO00O00OOOOOO0000}篇")#line:156
                 if O00OO0OOO000O0O00 .count in check_list :#line:157
                     push (O0O0O00000OOO000O ,OOO0OOO00O00OO00O ,OOO000O0OO00OO0O0 )#line:158
                     time .sleep (random .randint (25 ,30 ))#line:159
