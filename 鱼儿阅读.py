@@ -129,7 +129,7 @@ class Main :#line:35
         OO000O0O0O0OO000O .jkey =OO00OO0000OOOOOO0 #line:124
         OO000O0O0O0OO000O .wx_url =O0OOOO000O0O0000O #line:126
     def read (O00OO0OOO000O0O00 ):#line:131
-        O0000O00OOOO0O000 ={"X-Requested-With":"XMLHttpRequest","User-Agent":O00OO0OOO000O0O00 .agent ,"Sec-Ch-Ua-Platform":"Android","Accept":"*/*","Origin":"http://jlrd0810101102-15.obs.cn-jxnc1.ctyun.cn","Referer":"http://jlrd0810101102-15.obs.cn-jxnc1.ctyun.cn/","Accept-Encoding":"gzip, deflate, br","Accept-Language":"zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7","Connection":"keep-alive",}#line:142
+        O0000O00OOOO0O000 ={"X-Requested-With":"com.tencent.mm","User-Agent":O00OO0OOO000O0O00 .agent ,"Sec-Ch-Ua-Platform":"Android","Accept":"*/*","Origin":"http://jlrd0810101102-15.obs.cn-jxnc1.ctyun.cn","Referer":"http://jlrd0810101102-15.obs.cn-jxnc1.ctyun.cn/","Accept-Encoding":"gzip, deflate, br","Accept-Language":"zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7","Connection":"keep-alive",}#line:142
         OOOOOO000O0O0OO0O ='\033[91m'#line:144
         OO00O00OOOOOO0000 ='\033[0m'#line:145
         O0O0O00000OOO000O =O00OO0OOO000O0O00 .apptoken #line:146
