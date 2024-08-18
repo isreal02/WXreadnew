@@ -89,6 +89,7 @@ class Main :#line:35
         O0OOO0OOOO000O0OO =OOO0O000OO0O00000 +"?upuid="+OO00OOO0O0000O0O0 #line:77
         OO000O000O0O0O0OO .count =int (re .findall (r"今日已读(.*?)篇",OOO00OOOO00000O0O )[0 ])#line:78
         OO000O000O0O0O0OO .yue =float (re .findall (r"余额：(.*?)元",OOO00OOOO00000O0O )[0 ])#line:79
+        print(O0OOO0OOOO000O0OO)
         if OO000O000O0O0O0OO .count >number :#line:80
             exit (0 )#line:81
         else :#line:82
