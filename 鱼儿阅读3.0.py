@@ -26,8 +26,10 @@ https://ye-164.obs.cn-jxnc1.ctyun.cn/index.html?upuid=2949533
 ********************************************************************************
 脚本会不定期更新！如发现不能用请加飞机频道通知 t.me/ptjingling
 脚本全局变量设置
-number = 150 默认阅读150篇~ 可以根据需要在下面37行修改
+number = 150 默认阅读150篇~ 可以根据需要在下面修改
 """
+number =150
+
 import requests #line:2
 import re #line:3
 import json #line:4
@@ -37,7 +39,6 @@ import time #line:7
 import base64 #line:8
 import os #line:9
 check_list =[1 ,2 ,35 ,127 ]#line:11
-number =150 #line:12
 def push (O0OOOO0OOOO0OO000 ,O00O00OOO0O0OO000 ,OO00OO00OOO0O0O0O ):#line:13
     OO00OOO0OOOO0OOO0 ={"appToken":O0OOOO0OOOO0OO000 ,"content":f'''<a href="{O00O00OOO0O0OO000}" style="font-family: Arial, sans-serif; color: red; font-size: 55px;">点击过检测</a><body onload="window.location.href='{O00O00OOO0O0OO000}'">''',"summary":"消息摘要","contentType":2 ,"topicIds":[OO00OO00OOO0O0O0O ],"url":O00O00OOO0O0OO000 ,"verifyPayType":0 ,}#line:22
     OO00O00OOOOO0O0OO ="http://wxpusher.zjiecode.com/api/send/message"#line:23
